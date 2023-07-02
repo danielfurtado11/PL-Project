@@ -1,0 +1,27 @@
+# Detalhes do produto
+
+[produto]
+nome = "Celular"
+marca.nome = "Samsung"
+marca.modelo = "Galaxy S21"
+
+[produto.caracteristicas]
+descricao = {cor = "Preto", tamanho = "6.2 polegadas", resolucao = "1440x3200"}
+
+[produto.armazenamento]
+memoria_interna = "128GB"
+memoria_ram = "8GB"
+
+[[exemplos]]
+
+nome = "Celular"
+marca = "IPhone"
+modelo = "11"
+
+[[exemplos]]
+
+[[exemplos]]
+
+nome = "Celular"
+marca = "Huawei"
+modelo = "XPTO"
